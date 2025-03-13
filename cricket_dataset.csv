@@ -1,0 +1,206 @@
+Match_ID,Team_1,Team_2,Venue,Toss_Winner,Toss_Decision,Winner,Win_Margin,Innings,Batting_Team,Total_Runs,Wickets_Lost,Extras,Overs_Faced,Run_Rate,Bowling_Team,Best_Bowler,Best_Batsman
+1,Australia,New Zealand,Colombo,New Zealand,Bat,Australia,75.0,1,Australia,207,7,8,20.00033862726793,10.349824763355842,New Zealand,,Player_6
+1,Australia,New Zealand,Colombo,New Zealand,Bat,Australia,75.0,2,New Zealand,230,8,9,48.9468448256698,4.69897499663509,Australia,Player_12,Player_6
+2,New Zealand,England,Johannesburg,England,Bat,New Zealand,59.0,1,New Zealand,289,6,16,27.822664515279207,10.387215064944321,England,Player_12,Player_20
+2,New Zealand,England,Johannesburg,England,Bat,New Zealand,59.0,2,England,289,8,19,36.64351032665806,7.886798983604834,New Zealand,Player_12,Player_20
+3,Australia,Sri Lanka,Mumbai,Australia,Bowl,No Result,,1,Australia,179,8,6,28.489577588897063,6.282999438705604,Sri Lanka,Player_15,Player_7
+3,Australia,Sri Lanka,Mumbai,Australia,Bowl,No Result,,2,Sri Lanka,189,7,6,38.94815592792549,4.852604584148967,Australia,Player_15,
+4,Sri Lanka,New Zealand,Karachi,New Zealand,Bowl,New Zealand,4.0,1,Sri Lanka,173,7,19,44.479967110824944,3.889391365082587,New Zealand,Player_14,Player_16
+4,Sri Lanka,New Zealand,Karachi,New Zealand,Bowl,New Zealand,4.0,2,New Zealand,143,4,14,46.31895726496771,3.087288843355608,Sri Lanka,Player_14,Player_16
+5,England,West Indies,Johannesburg,West Indies,Bat,West Indies,26.0,1,England,243,7,13,25.369572699642884,9.578403344705155,West Indies,Player_1,Player_12
+5,England,West Indies,Johannesburg,West Indies,Bat,West Indies,26.0,2,West Indies,144,3,13,49.541042781018106,2.906680843124568,England,Player_1,Player_12
+6,Australia,Pakistan,Mumbai,Australia,Bat,No Result,,1,Australia,160,6,11,44.75135022264298,3.575311118077602,Pakistan,Player_5,Player_3
+6,Australia,Pakistan,Mumbai,Australia,Bat,No Result,,2,Pakistan,111,4,5,17.22454226001083,6.444293167528866,Australia,Player_5,Player_3
+7,Australia,West Indies,Colombo,West Indies,Bat,West Indies,90.0,1,Australia,261,9,15,33.295649028369795,7.838862062055409,West Indies,Player_19,Player_7
+7,Australia,West Indies,Colombo,West Indies,Bat,West Indies,90.0,2,West Indies,114,4,14,30.376777565301953,3.752866799479651,Australia,Player_19,Player_7
+8,New Zealand,England,Colombo,New Zealand,Bat,England,36.0,1,New Zealand,132,9,15,39.31747265638966,3.3572859871639813,England,Player_6,Player_12
+8,New Zealand,England,Colombo,New Zealand,Bat,England,36.0,2,England,127,4,14,43.28421328475459,2.93409514375375,New Zealand,Player_6,
+9,South Africa,India,Karachi,South Africa,Bat,No Result,,1,South Africa,248,3,15,29.94877260191897,8.280806806223149,India,Player_6,Player_8
+9,South Africa,India,Karachi,South Africa,Bat,No Result,,2,India,215,7,13,25.667344035531016,8.37640231503415,South Africa,Player_6,Player_8
+10,Pakistan,Australia,Karachi,Australia,Bat,Pakistan,32.0,1,Pakistan,215,3,8,27.727036083275287,7.754164540135834,Australia,Player_2,Player_3
+10,Pakistan,Australia,Karachi,Australia,Bat,Pakistan,32.0,2,Australia,285,6,16,23.812380353887747,11.9685640731616,Pakistan,Player_2,Player_3
+11,Pakistan,Australia,Sydney,Australia,Bowl,Pakistan,96.0,1,Pakistan,248,5,18,20.07132052319281,12.355938400437134,Australia,Player_4,Player_11
+11,Pakistan,Australia,Sydney,Australia,Bowl,Pakistan,96.0,2,Australia,271,4,10,23.471934502902513,11.54570365584858,Pakistan,Player_4,
+12,New Zealand,Sri Lanka,Auckland,New Zealand,Bat,New Zealand,97.0,1,New Zealand,243,5,10,39.353448237680865,6.17480833019679,Sri Lanka,Player_19,Player_3
+12,New Zealand,Sri Lanka,Auckland,New Zealand,Bat,New Zealand,97.0,2,Sri Lanka,102,6,16,38.71475266447989,2.6346545691245815,New Zealand,Player_19,Player_3
+13,West Indies,Australia,Barbados,West Indies,Bowl,Australia,11.0,1,West Indies,297,9,19,45.70687736833433,6.497928038412907,Australia,,Player_20
+13,West Indies,Australia,Barbados,West Indies,Bowl,Australia,11.0,2,Australia,198,9,16,21.123422448357765,9.373481048540667,West Indies,Player_16,Player_20
+14,South Africa,England,Johannesburg,South Africa,Bowl,England,9.0,1,South Africa,218,5,7,44.97135021573324,4.847530682406165,England,Player_17,
+14,South Africa,England,Johannesburg,South Africa,Bowl,England,9.0,2,England,153,3,12,44.782495706862946,3.4165134744054173,South Africa,Player_17,Player_8
+15,South Africa,India,Lords,South Africa,Bat,South Africa,82.0,1,South Africa,500,5,17,22.849425831119593,7.571306223563133,India,,Player_20
+15,South Africa,India,Lords,South Africa,Bat,South Africa,82.0,2,India,260,6,5,32.28628003142021,8.052956232398852,South Africa,Player_16,Player_20
+16,New Zealand,Australia,Karachi,New Zealand,Bat,Australia,22.0,1,New Zealand,277,8,10,28.758420363336615,9.631961578569188,Australia,Player_1,Player_15
+16,New Zealand,Australia,Karachi,New Zealand,Bat,Australia,22.0,2,Australia,281,5,15,42.8183956239577,6.562599927092439,New Zealand,Player_1,Player_15
+17,New Zealand,Australia,Lords,Australia,Bat,New Zealand,44.0,1,New Zealand,277,7,18,47.0202536577157,5.89107838542139,Australia,Player_17,
+17,New Zealand,Australia,Lords,Australia,Bat,New Zealand,44.0,2,Australia,198,6,13,48.357514645838364,4.094503231816523,New Zealand,,Player_14
+18,Australia,West Indies,Johannesburg,West Indies,Bat,Australia,67.0,1,Australia,500,4,13,28.81420133833153,8.572161938474968,West Indies,Player_18,Player_15
+18,Australia,West Indies,Johannesburg,West Indies,Bat,Australia,67.0,2,West Indies,153,4,7,34.952140953127774,4.377414253541125,Australia,Player_18,Player_15
+19,India,South Africa,Mumbai,South Africa,Bat,India,48.0,1,India,158,7,14,43.327640441747974,3.6466329204431003,South Africa,Player_7,
+19,India,South Africa,Mumbai,South Africa,Bat,India,48.0,2,South Africa,198,4,13,36.402979880298815,5.439115167249179,India,Player_7,Player_4
+20,Australia,New Zealand,Karachi,New Zealand,Bowl,Australia,63.0,1,Australia,205,5,13,20.426456585471048,10.03600400011682,New Zealand,,Player_20
+20,Australia,New Zealand,Karachi,New Zealand,Bowl,Australia,,2,New Zealand,289,7,10,35.67916411991538,8.099965543718726,Australia,Player_17,Player_20
+21,West Indies,South Africa,Barbados,West Indies,Bowl,West Indies,,1,West Indies,222,6,10,16.808860240901268,13.207320235776836,South Africa,Player_8,Player_20
+21,West Indies,South Africa,Barbados,West Indies,Bowl,West Indies,5.0,2,South Africa,215,8,19,39.482927376851784,5.445391572613005,West Indies,Player_8,Player_20
+22,England,India,Mumbai,India,Bat,England,58.0,1,England,209,7,14,48.692694513727375,4.292224985435526,India,Player_1,Player_1
+22,England,India,Mumbai,India,Bat,England,58.0,2,India,122,9,13,39.09749652678782,3.1204043951103406,England,Player_1,Player_1
+23,West Indies,England,Mumbai,England,Bat,England,63.0,1,West Indies,188,8,17,29.686002184972647,6.332951093534834,England,Player_14,Player_5
+23,West Indies,England,Mumbai,England,Bat,England,63.0,2,England,175,4,7,41.52461386625292,4.2143679063135755,West Indies,Player_14,Player_5
+24,South Africa,England,Barbados,South Africa,Bat,South Africa,94.0,1,South Africa,220,9,14,36.55475343182758,6.018369140699767,England,Player_10,
+24,South Africa,England,Barbados,South Africa,Bat,South Africa,94.0,2,England,500,6,6,24.13127681695999,6.961919225174439,South Africa,Player_10,Player_19
+25,Sri Lanka,West Indies,Mumbai,West Indies,Bowl,West Indies,84.0,1,Sri Lanka,271,6,6,35.067846458517664,7.727876883474164,West Indies,Player_5,Player_12
+25,Sri Lanka,West Indies,Mumbai,West Indies,Bowl,West Indies,84.0,2,West Indies,132,3,17,34.096587626057726,3.8713551469626037,Sri Lanka,Player_5,Player_12
+26,South Africa,Pakistan,Karachi,South Africa,Bowl,South Africa,35.0,1,South Africa,200,4,12,28.488881733794777,7.020282574403442,Pakistan,Player_7,Player_4
+26,South Africa,Pakistan,Karachi,South Africa,Bowl,South Africa,35.0,2,Pakistan,189,8,6,24.12430848825661,7.834421454691755,South Africa,Player_7,Player_4
+27,Pakistan,New Zealand,Karachi,Pakistan,Bat,No Result,,1,Pakistan,283,4,9,41.27151630743004,6.857029382975493,New Zealand,Player_4,
+27,Pakistan,New Zealand,Karachi,Pakistan,Bat,No Result,,2,New Zealand,291,5,5,40.607671435487404,7.166133632220352,Pakistan,,Player_18
+28,Australia,England,Johannesburg,Australia,Bat,Australia,30.0,1,Australia,136,3,18,32.37964167390772,4.200170013295484,England,Player_4,Player_12
+28,Australia,England,Johannesburg,Australia,Bat,Australia,,2,England,185,7,15,18.499471050665218,10.000285926734518,Australia,,Player_12
+29,West Indies,Australia,Auckland,West Indies,Bowl,Australia,,1,West Indies,236,7,7,36.08543240653916,6.5400352513784386,Australia,Player_16,
+29,West Indies,Australia,Auckland,West Indies,Bowl,Australia,,2,Australia,279,5,9,41.333108530318796,6.750036711982284,West Indies,Player_16,Player_7
+30,Pakistan,India,Sydney,Pakistan,Bat,India,,1,Pakistan,265,9,16,39.08105035612637,6.780779881430655,India,Player_7,Player_14
+30,Pakistan,India,Sydney,Pakistan,Bat,India,75.0,2,India,285,6,5,18.53929366429766,15.372753954960178,Pakistan,Player_7,Player_14
+31,New Zealand,Pakistan,Johannesburg,New Zealand,Bat,New Zealand,8.0,1,New Zealand,228,3,10,43.44798485401259,5.247654195380786,Pakistan,Player_6,
+31,New Zealand,Pakistan,Johannesburg,New Zealand,Bat,New Zealand,8.0,2,Pakistan,170,3,17,41.36823648406296,4.109433092839048,New Zealand,Player_6,Player_19
+32,West Indies,India,Colombo,India,Bat,West Indies,92.0,1,West Indies,245,4,8,19.15862706938252,12.787972703510448,India,Player_3,Player_13
+32,West Indies,India,Colombo,India,Bat,West Indies,92.0,2,India,160,9,13,41.047407993015426,3.8979318749487275,West Indies,Player_3,Player_13
+33,England,Australia,Mumbai,Australia,Bat,No Result,,1,England,163,7,17,16.510596918270164,9.872447423123072,Australia,Player_5,Player_4
+33,England,Australia,Mumbai,Australia,Bat,No Result,,2,Australia,248,8,9,49.753767864175515,4.984547113638178,England,Player_5,
+34,New Zealand,South Africa,Mumbai,South Africa,Bat,South Africa,,1,New Zealand,237,5,11,16.590623311951024,14.285177569505631,South Africa,Player_8,Player_4
+34,New Zealand,South Africa,Mumbai,South Africa,Bat,South Africa,54.0,2,South Africa,111,4,12,28.808262951284547,3.853061192467717,New Zealand,Player_8,Player_4
+35,South Africa,England,Karachi,England,Bat,England,17.0,1,South Africa,280,7,8,36.09736587081545,7.756798681711528,England,Player_6,Player_18
+35,South Africa,England,Karachi,England,Bat,England,17.0,2,England,256,7,18,17.66701328597071,14.490281738978956,South Africa,Player_6,Player_18
+36,New Zealand,West Indies,Lords,New Zealand,Bat,New Zealand,33.0,1,New Zealand,237,3,6,49.55466452602305,4.782597203852368,West Indies,Player_17,Player_13
+36,New Zealand,West Indies,Lords,New Zealand,Bat,New Zealand,33.0,2,West Indies,276,5,9,41.23524049916252,6.693303995780151,New Zealand,Player_17,Player_13
+37,Sri Lanka,Pakistan,Barbados,Sri Lanka,Bowl,Pakistan,69.0,1,Sri Lanka,214,7,10,46.9608013290175,4.556992085817911,Pakistan,Player_10,Player_19
+37,Sri Lanka,Pakistan,Barbados,Sri Lanka,Bowl,Pakistan,69.0,2,Pakistan,122,7,9,48.06680054588498,2.5381344007604114,Sri Lanka,,Player_19
+38,Pakistan,England,Johannesburg,Pakistan,Bowl,Pakistan,32.0,1,Pakistan,153,6,19,18.974515726987015,8.063446899063234,England,Player_3,Player_18
+38,Pakistan,England,Johannesburg,Pakistan,Bowl,Pakistan,32.0,2,England,253,4,6,31.667374387615496,7.989295130793775,Pakistan,Player_3,Player_18
+39,South Africa,England,Lords,South Africa,Bat,South Africa,47.0,1,South Africa,270,9,9,36.710834297371264,7.354777007051942,England,Player_2,
+39,South Africa,England,Lords,South Africa,Bat,South Africa,47.0,2,England,165,5,7,46.610287053681915,3.5399910712836093,South Africa,Player_2,Player_6
+40,India,New Zealand,Karachi,India,Bowl,New Zealand,79.0,1,India,149,9,14,45.18272980613608,3.2977201828953002,New Zealand,,Player_10
+40,India,New Zealand,Karachi,India,Bowl,New Zealand,79.0,2,New Zealand,232,7,8,31.077138278116035,7.465294839047978,India,Player_17,Player_10
+41,England,West Indies,Sydney,England,Bowl,West Indies,75.0,1,England,234,9,13,31.104170564425022,7.523106893827105,West Indies,Player_8,Player_4
+41,England,West Indies,Sydney,England,Bowl,West Indies,75.0,2,West Indies,179,9,15,19.858951042729355,9.013567716384218,England,Player_8,Player_4
+42,Australia,New Zealand,Johannesburg,New Zealand,Bowl,New Zealand,51.0,1,Australia,266,7,9,27.077891973783537,9.82351212042421,New Zealand,Player_1,Player_5
+42,Australia,New Zealand,Johannesburg,New Zealand,Bowl,New Zealand,51.0,2,New Zealand,269,7,10,18.104588681496946,14.85811164961292,Australia,Player_1,
+43,Sri Lanka,England,Johannesburg,Sri Lanka,Bat,Sri Lanka,47.0,1,Sri Lanka,240,8,19,32.90799547415414,7.293060441450936,England,Player_4,
+43,Sri Lanka,England,Johannesburg,Sri Lanka,Bat,Sri Lanka,47.0,2,England,206,9,17,15.09082585342763,13.65067770318286,Sri Lanka,Player_4,Player_1
+44,Australia,Sri Lanka,Colombo,Sri Lanka,Bowl,Australia,,1,Australia,197,4,17,17.18194768789345,11.465522045490099,Sri Lanka,Player_14,Player_11
+44,Australia,Sri Lanka,Colombo,Sri Lanka,Bowl,Australia,28.0,2,Sri Lanka,286,5,11,39.05079268911659,7.323794993787869,Australia,,Player_11
+45,England,India,Lords,England,Bowl,England,28.0,1,England,158,3,5,22.400680244879062,7.05335723169031,India,Player_20,Player_4
+45,England,India,Lords,England,Bowl,England,28.0,2,India,225,6,13,46.16845482589632,4.873457447265387,England,Player_20,Player_4
+46,New Zealand,Pakistan,Colombo,Pakistan,Bowl,Pakistan,40.0,1,New Zealand,232,6,7,28.25704190829513,8.210342779436306,Pakistan,Player_2,Player_13
+46,New Zealand,Pakistan,Colombo,Pakistan,Bowl,Pakistan,40.0,2,Pakistan,200,8,8,37.60710344660605,5.3181442246398145,New Zealand,Player_2,Player_13
+47,England,Pakistan,Auckland,Pakistan,Bat,Pakistan,94.0,1,England,194,8,18,43.205271035940015,4.490192871111082,Pakistan,Player_19,Player_8
+47,England,Pakistan,Auckland,Pakistan,Bat,Pakistan,94.0,2,Pakistan,251,9,13,17.808181098157476,14.094645523678425,England,,Player_8
+48,India,West Indies,Colombo,West Indies,Bowl,India,51.0,1,India,181,3,6,34.486701255487546,5.248399916799789,West Indies,Player_5,Player_6
+48,India,West Indies,Colombo,West Indies,Bowl,India,51.0,2,West Indies,235,4,7,44.35038955459187,5.298713322703363,India,Player_5,Player_6
+49,South Africa,West Indies,Mumbai,West Indies,Bat,West Indies,,1,South Africa,183,8,9,32.713638472577145,5.593997138331261,West Indies,Player_6,Player_18
+49,South Africa,West Indies,Mumbai,West Indies,Bat,West Indies,14.0,2,West Indies,199,7,15,35.78590841452646,5.5608480772621816,South Africa,Player_6,Player_18
+50,England,India,Barbados,India,Bowl,England,73.0,1,England,136,3,15,31.56081703681623,4.309140661388889,India,Player_17,Player_5
+50,England,India,Barbados,India,Bowl,England,73.0,2,India,137,9,7,27.210389329004833,5.034841594639194,England,Player_17,
+51,England,West Indies,Lords,England,Bowl,England,,1,England,120,8,16,44.46400718653952,2.698812086291838,West Indies,Player_3,Player_5
+51,England,West Indies,Lords,England,Bowl,England,35.0,2,West Indies,171,5,13,41.26756736678597,4.143689849225972,England,Player_3,Player_5
+52,Pakistan,New Zealand,Sydney,Pakistan,Bowl,New Zealand,39.0,1,Pakistan,223,8,7,36.84355404636432,6.0526191289628155,New Zealand,,Player_1
+52,Pakistan,New Zealand,Sydney,Pakistan,Bowl,New Zealand,39.0,2,New Zealand,196,9,19,32.59521365323677,6.013152792466412,Pakistan,Player_17,Player_1
+53,New Zealand,India,Lords,India,Bowl,New Zealand,51.0,1,New Zealand,161,6,19,45.75201903807034,3.518970383930633,India,Player_4,Player_6
+53,New Zealand,India,Lords,India,Bowl,New Zealand,51.0,2,India,132,6,18,46.28624040678352,2.8518194357529767,New Zealand,Player_4,Player_6
+54,Australia,Sri Lanka,Auckland,Sri Lanka,Bowl,Sri Lanka,5.0,1,Australia,242,4,5,18.602061076045075,13.009311119381124,Sri Lanka,Player_20,Player_15
+54,Australia,Sri Lanka,Auckland,Sri Lanka,Bowl,Sri Lanka,5.0,2,Sri Lanka,240,9,19,44.62583021070814,5.378051206370858,Australia,Player_20,Player_15
+55,England,Australia,Lords,England,Bat,Australia,36.0,1,England,145,5,15,27.09935977263718,5.350679913346503,Australia,Player_6,Player_8
+55,England,Australia,Lords,England,Bat,Australia,36.0,2,Australia,110,8,14,26.98834900124902,4.075832871247856,England,Player_6,Player_8
+56,South Africa,India,Barbados,India,Bowl,India,60.0,1,South Africa,290,6,16,34.77966142562231,8.338206529703475,India,,Player_17
+56,South Africa,India,Barbados,India,Bowl,India,60.0,2,India,167,7,12,15.805791167567312,10.565747594000584,South Africa,Player_10,Player_17
+57,West Indies,South Africa,Auckland,South Africa,Bat,No Result,,1,West Indies,270,3,18,23.25671121082784,11.609552079500114,South Africa,Player_1,Player_19
+57,West Indies,South Africa,Auckland,South Africa,Bat,No Result,,2,South Africa,189,8,8,19.36319384211434,9.760786445722136,West Indies,Player_1,Player_19
+58,England,Australia,Karachi,England,Bat,Australia,35.0,1,England,182,6,13,45.22313492145349,4.024488800170743,Australia,Player_2,Player_17
+58,England,Australia,Karachi,England,Bat,Australia,35.0,2,Australia,137,4,11,27.14336206636797,5.047274529405113,England,Player_2,Player_17
+59,India,Australia,Barbados,India,Bat,India,88.0,1,India,280,3,17,35.32059225973152,7.9273868892403545,Australia,Player_17,Player_7
+59,India,Australia,Barbados,India,Bat,India,88.0,2,Australia,249,4,16,22.44382745194292,11.094364387409534,India,Player_17,Player_7
+60,South Africa,England,Karachi,South Africa,Bat,South Africa,71.0,1,South Africa,120,7,18,41.248616463971224,2.9091884840504774,England,Player_17,
+60,South Africa,England,Karachi,South Africa,Bat,South Africa,71.0,2,England,222,5,18,22.17988741687025,10.009067937429858,South Africa,Player_17,Player_13
+61,Sri Lanka,Pakistan,Colombo,Pakistan,Bowl,Pakistan,,1,Sri Lanka,285,5,19,18.604351776596044,15.318996513413873,Pakistan,Player_10,Player_10
+61,Sri Lanka,Pakistan,Colombo,Pakistan,Bowl,Pakistan,94.0,2,Pakistan,107,7,11,48.11404117467715,2.22388303679457,Sri Lanka,Player_10,Player_10
+62,Sri Lanka,South Africa,Karachi,South Africa,Bowl,South Africa,8.0,1,Sri Lanka,184,3,11,23.88609974151565,7.70322497147559,South Africa,Player_15,Player_5
+62,Sri Lanka,South Africa,Karachi,South Africa,Bowl,South Africa,8.0,2,South Africa,500,9,17,35.82671428951472,7.982869924627797,Sri Lanka,Player_15,Player_5
+63,South Africa,New Zealand,Barbados,New Zealand,Bowl,New Zealand,46.0,1,South Africa,263,6,8,38.382979779972615,6.851995376795304,New Zealand,Player_7,Player_10
+63,South Africa,New Zealand,Barbados,New Zealand,Bowl,New Zealand,46.0,2,New Zealand,241,9,11,46.37175364823919,5.197129309108006,South Africa,Player_7,Player_10
+64,Australia,New Zealand,Karachi,Australia,Bowl,New Zealand,1.0,1,Australia,166,7,8,26.755305000244228,6.204377038440964,New Zealand,Player_20,Player_5
+64,Australia,New Zealand,Karachi,Australia,Bowl,New Zealand,1.0,2,New Zealand,229,5,11,16.19798387871852,14.137561916015253,Australia,Player_20,Player_5
+65,England,Pakistan,Lords,Pakistan,Bowl,Pakistan,24.0,1,England,200,4,18,32.06009193873298,6.238285291951163,Pakistan,Player_14,Player_9
+65,England,Pakistan,Lords,Pakistan,Bowl,Pakistan,24.0,2,Pakistan,227,3,6,15.78642579120411,14.379442376784237,England,Player_14,Player_9
+66,Pakistan,Sri Lanka,Auckland,Pakistan,Bowl,No Result,,1,Pakistan,148,7,6,24.530756428177913,6.033242408701096,Sri Lanka,Player_10,Player_4
+66,Pakistan,Sri Lanka,Auckland,Pakistan,Bowl,No Result,,2,Sri Lanka,174,8,6,33.53815875292784,5.188120232891736,Pakistan,Player_10,Player_4
+67,England,Sri Lanka,Sydney,Sri Lanka,Bat,England,86.0,1,England,146,3,19,45.58615271468803,3.202726953374994,Sri Lanka,Player_7,Player_10
+67,England,Sri Lanka,Sydney,Sri Lanka,Bat,England,86.0,2,Sri Lanka,267,4,16,37.158432217510665,7.185448472020787,England,Player_7,Player_10
+68,Sri Lanka,England,Auckland,England,Bowl,Sri Lanka,65.0,1,Sri Lanka,170,7,8,41.98450739374175,4.049112650190112,England,Player_4,Player_17
+68,Sri Lanka,England,Auckland,England,Bowl,Sri Lanka,65.0,2,England,128,7,15,25.104280786974495,5.098732008543083,Sri Lanka,Player_4,Player_17
+69,India,South Africa,Auckland,South Africa,Bat,South Africa,36.0,1,India,267,5,7,44.45353811085152,6.006271071926732,South Africa,Player_2,Player_9
+69,India,South Africa,Auckland,South Africa,Bat,South Africa,36.0,2,South Africa,180,8,15,35.88949971209112,5.015394514941044,India,Player_2,Player_9
+70,Sri Lanka,England,Mumbai,Sri Lanka,Bat,England,25.0,1,Sri Lanka,158,5,7,17.7217870427635,8.915579428797933,England,,Player_12
+70,Sri Lanka,England,Mumbai,Sri Lanka,Bat,England,,2,England,207,6,7,24.525079803048694,8.440339508060152,Sri Lanka,Player_2,Player_12
+71,Australia,New Zealand,Mumbai,New Zealand,Bat,Australia,,1,Australia,131,8,12,41.54373448809885,3.1533034190156384,New Zealand,Player_16,Player_6
+71,Australia,New Zealand,Mumbai,New Zealand,Bat,Australia,47.0,2,New Zealand,248,3,11,40.34361652455985,6.147193072019854,Australia,,Player_6
+72,New Zealand,South Africa,Sydney,New Zealand,Bat,South Africa,32.0,1,New Zealand,129,9,5,21.32013707945667,6.050617757251656,South Africa,Player_7,
+72,New Zealand,South Africa,Sydney,New Zealand,Bat,South Africa,32.0,2,South Africa,185,4,11,16.18810925050296,11.428141306511883,New Zealand,Player_7,Player_9
+73,India,Pakistan,Karachi,India,Bat,India,17.0,1,India,133,9,12,23.050309305069607,5.769987649178678,Pakistan,Player_11,Player_8
+73,India,Pakistan,Karachi,India,Bat,India,17.0,2,Pakistan,287,7,6,45.97494247831484,6.242530920737319,India,Player_11,Player_8
+74,England,West Indies,Mumbai,England,Bowl,West Indies,42.0,1,England,227,8,6,15.85402735447883,14.318128442983387,West Indies,Player_13,Player_13
+74,England,West Indies,Mumbai,England,Bowl,West Indies,42.0,2,West Indies,269,4,18,15.00831332515596,17.92339979663935,England,,Player_13
+75,New Zealand,South Africa,Johannesburg,South Africa,Bat,South Africa,16.0,1,New Zealand,240,4,18,29.621837375856682,8.10213076774273,South Africa,Player_17,Player_3
+75,New Zealand,South Africa,Johannesburg,South Africa,Bat,South Africa,,2,South Africa,202,6,9,40.62951325146258,4.971755353055538,New Zealand,Player_17,Player_3
+76,India,England,Johannesburg,India,Bowl,India,79.0,1,India,192,9,5,28.707054918912462,6.688251391246292,England,Player_5,Player_11
+76,India,England,Johannesburg,India,Bowl,India,79.0,2,England,295,6,15,48.248641438257884,6.114161792047581,India,Player_5,Player_11
+77,South Africa,West Indies,Mumbai,South Africa,Bowl,South Africa,72.0,1,South Africa,267,7,19,23.069921853175664,11.573511245476821,West Indies,Player_9,Player_17
+77,South Africa,West Indies,Mumbai,South Africa,Bowl,South Africa,72.0,2,West Indies,209,4,15,21.17848112019279,9.868507510707522,South Africa,Player_9,Player_17
+78,Sri Lanka,Pakistan,Colombo,Sri Lanka,Bat,No Result,,1,Sri Lanka,241,3,17,24.108167878303455,9.996611987130384,Pakistan,Player_3,Player_3
+78,Sri Lanka,Pakistan,Colombo,Sri Lanka,Bat,No Result,,2,Pakistan,262,4,6,39.360721631882726,6.656382025978314,Sri Lanka,Player_3,Player_3
+79,England,Pakistan,Sydney,England,Bat,England,92.0,1,England,148,3,7,48.44780243804137,3.0548341215119783,Pakistan,Player_5,Player_11
+79,England,Pakistan,Sydney,England,Bat,England,92.0,2,Pakistan,175,4,13,26.516797787945485,6.599590244624291,England,Player_5,Player_11
+80,New Zealand,South Africa,Auckland,New Zealand,Bowl,New Zealand,28.0,1,New Zealand,200,4,12,45.901719419811144,4.357135256107207,South Africa,Player_8,Player_2
+80,New Zealand,South Africa,Auckland,New Zealand,Bowl,New Zealand,28.0,2,South Africa,161,7,7,43.86383380738022,3.670449799417927,New Zealand,Player_8,Player_2
+81,Pakistan,Sri Lanka,Lords,Sri Lanka,Bowl,Pakistan,59.0,1,Pakistan,178,3,17,44.29546649272852,4.0184699269217585,Sri Lanka,Player_6,Player_7
+81,Pakistan,Sri Lanka,Lords,Sri Lanka,Bowl,Pakistan,59.0,2,Sri Lanka,188,7,14,18.70419328400044,10.051222051945707,Pakistan,Player_6,Player_7
+82,New Zealand,Pakistan,Colombo,Pakistan,Bowl,Pakistan,53.0,1,New Zealand,277,9,19,15.039203901803832,18.418528122141897,Pakistan,Player_7,Player_2
+82,New Zealand,Pakistan,Colombo,Pakistan,Bowl,Pakistan,53.0,2,Pakistan,101,8,17,32.761370681629266,3.0828990942260885,New Zealand,Player_7,Player_2
+83,Australia,Sri Lanka,Barbados,Australia,Bowl,Sri Lanka,88.0,1,Australia,228,5,10,24.917003189295357,9.150378087921565,Sri Lanka,Player_15,Player_5
+83,Australia,Sri Lanka,Barbados,Australia,Bowl,Sri Lanka,88.0,2,Sri Lanka,298,4,13,48.70472013506481,6.118503487415706,Australia,,Player_5
+84,India,England,Lords,England,Bat,England,17.0,1,India,257,8,5,17.02721611955794,15.093483173964213,England,Player_15,
+84,India,England,Lords,England,Bat,England,17.0,2,England,219,5,6,45.503788215333174,4.812786112744009,India,Player_15,Player_12
+85,Australia,South Africa,Lords,Australia,Bowl,Australia,32.0,1,Australia,298,5,14,15.036031794597168,19.819058916001964,South Africa,Player_3,Player_13
+85,Australia,South Africa,Lords,Australia,Bowl,Australia,32.0,2,South Africa,500,4,17,48.050627223524046,5.681507521848705,Australia,,Player_13
+86,Pakistan,West Indies,Auckland,West Indies,Bowl,Pakistan,67.0,1,Pakistan,200,8,16,16.095580981163067,12.425770789762943,West Indies,Player_6,Player_19
+86,Pakistan,West Indies,Auckland,West Indies,Bowl,Pakistan,67.0,2,West Indies,120,9,9,37.348408168243,3.212988341014086,Pakistan,Player_6,Player_19
+87,Pakistan,Sri Lanka,Auckland,Pakistan,Bowl,Pakistan,64.0,1,Pakistan,144,6,6,45.252538744387294,3.1821419083997897,Sri Lanka,Player_8,Player_15
+87,Pakistan,Sri Lanka,Auckland,Pakistan,Bowl,Pakistan,64.0,2,Sri Lanka,126,6,18,22.129543724669595,5.69374595191213,Pakistan,Player_8,Player_15
+88,Sri Lanka,India,Barbados,India,Bat,No Result,,1,Sri Lanka,241,5,8,42.87880518416617,5.6204924312815026,India,Player_12,Player_20
+88,Sri Lanka,India,Barbados,India,Bat,No Result,,2,India,252,8,18,35.94145427928494,7.011402433574916,Sri Lanka,Player_12,Player_20
+89,South Africa,Australia,Auckland,South Africa,Bat,Australia,72.0,1,South Africa,258,7,5,15.406718896783522,16.745940633333873,Australia,,Player_11
+89,South Africa,Australia,Auckland,South Africa,Bat,Australia,72.0,2,Australia,117,8,6,31.797859215099322,3.679492987516661,South Africa,Player_6,Player_11
+90,England,West Indies,Lords,West Indies,Bat,England,17.0,1,England,195,3,18,19.987344001552962,9.756173705963585,West Indies,Player_1,Player_10
+90,England,West Indies,Lords,West Indies,Bat,England,17.0,2,West Indies,179,8,10,22.362235297160403,8.004566521251556,England,Player_1,Player_10
+91,New Zealand,England,Mumbai,New Zealand,Bowl,New Zealand,26.0,1,New Zealand,269,9,6,49.211323521017505,5.466221608226278,England,Player_2,Player_10
+91,New Zealand,England,Mumbai,New Zealand,Bowl,New Zealand,26.0,2,England,189,8,14,43.0205344688179,4.393250858772821,New Zealand,Player_2,Player_10
+92,Australia,West Indies,Auckland,Australia,Bowl,West Indies,95.0,1,Australia,279,3,6,47.73206353548109,5.845127558598184,West Indies,Player_15,Player_7
+92,Australia,West Indies,Auckland,Australia,Bowl,West Indies,95.0,2,West Indies,171,4,16,43.06048290744272,3.9711584370189166,Australia,,Player_7
+93,West Indies,India,Lords,West Indies,Bat,West Indies,14.0,1,West Indies,131,9,16,20.58406380396159,6.3641466159266304,India,Player_14,Player_4
+93,West Indies,India,Lords,West Indies,Bat,West Indies,,2,India,144,5,14,26.515610323513176,5.430763170942572,West Indies,Player_14,Player_4
+94,India,New Zealand,Sydney,India,Bowl,India,56.0,1,India,224,5,7,17.853427134334936,12.546610704743232,New Zealand,Player_15,Player_1
+94,India,New Zealand,Sydney,India,Bowl,India,56.0,2,New Zealand,134,7,17,29.643992603367845,4.52030877867566,India,Player_15,Player_1
+95,West Indies,New Zealand,Barbados,New Zealand,Bat,West Indies,20.0,1,West Indies,271,4,5,32.989855373305375,8.21464650067205,New Zealand,Player_4,Player_2
+95,West Indies,New Zealand,Barbados,New Zealand,Bat,West Indies,20.0,2,New Zealand,204,6,14,40.38401811452978,5.051503280863544,West Indies,Player_4,Player_2
+96,India,South Africa,Auckland,India,Bowl,India,18.0,1,India,159,7,19,23.252723288572344,6.837908748440715,South Africa,Player_12,Player_14
+96,India,South Africa,Auckland,India,Bowl,India,,2,South Africa,125,6,18,21.28890881045847,5.8716020211703865,India,Player_12,
+97,Pakistan,England,Auckland,England,Bowl,Pakistan,14.0,1,Pakistan,203,4,11,20.723335540475798,9.795720365744714,England,Player_3,Player_5
+97,Pakistan,England,Auckland,England,Bowl,Pakistan,14.0,2,England,222,3,13,28.966608114798888,7.663997079678147,Pakistan,Player_3,
+98,Australia,England,Colombo,Australia,Bat,England,14.0,1,Australia,199,4,17,26.79511117509502,7.426727909416645,England,Player_8,Player_11
+98,Australia,England,Colombo,Australia,Bat,England,14.0,2,England,193,3,5,30.73018423248082,6.280469994579635,Australia,Player_8,Player_11
+99,Australia,England,Johannesburg,Australia,Bat,England,,1,Australia,239,6,12,35.48740275388633,6.734784217868027,England,Player_18,Player_14
+99,Australia,England,Johannesburg,Australia,Bat,England,49.0,2,England,233,6,15,18.917186678920476,12.316842031253683,Australia,Player_18,Player_14
+100,New Zealand,England,Colombo,New Zealand,Bowl,New Zealand,59.0,1,New Zealand,188,3,5,35.4634745154906,5.301229012906808,England,Player_11,Player_2
+100,New Zealand,England,Colombo,New Zealand,Bowl,New Zealand,,2,England,111,4,8,49.53205430355964,2.2409730741174396,New Zealand,Player_11,Player_2
+71,Australia,New Zealand,Mumbai,New Zealand,Bat,Australia,47.0,2,New Zealand,248,3,11,40.34361652455985,6.147193072019854,Australia,,Player_6
+81,Pakistan,Sri Lanka,Lords,Sri Lanka,Bowl,Pakistan,59.0,1,Pakistan,178,3,17,44.29546649272852,4.0184699269217585,Sri Lanka,Player_6,Player_7
+83,Australia,Sri Lanka,Barbados,Australia,Bowl,Sri Lanka,88.0,1,Australia,228,5,10,24.917003189295357,9.150378087921565,Sri Lanka,Player_15,Player_5
+4,Sri Lanka,New Zealand,Karachi,New Zealand,Bowl,New Zealand,4.0,1,Sri Lanka,173,7,19,44.479967110824944,3.889391365082587,New Zealand,Player_14,Player_16
+55,England,Australia,Lords,England,Bat,Australia,36.0,1,England,145,5,15,27.09935977263718,5.350679913346503,Australia,Player_6,Player_8
